@@ -1,3 +1,4 @@
+![yashinu_view](https://komarev.com/ghpvc/?username=yashinu0&color=dc143c)
 <p align="center">
   <a href="https://discord.com/users/526000000602472448"><img src="https://img.shields.io/badge/Yashinu%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/yashinu"><img src="https://img.shields.io/badge/Yashinu%20-1d202b.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
