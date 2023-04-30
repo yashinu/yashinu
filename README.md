@@ -158,6 +158,6 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashinu&show_icons=true&locale=en&layout=compact" alt="yashinu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashinu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yashinu" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yashinu&show_icons=true&locale=en" alt="yashinu" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yashinu&show_icons=true&locale=en&theme=tokyonight" alt="yashinu" /></p>
