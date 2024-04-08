@@ -3,10 +3,6 @@
 
 <!-- - 📄 My personal website [https://yashinu.net/](https://yashinu.net/) -->
 
-- My Discord community server **https://discord.gg/serendia**
-
-- I’m currently learning **Japanese**
-
 - Hobbies: **Watching anime, learning new languages, and coding.**
 
 <h3 align="left">Connect with me:</h3>
