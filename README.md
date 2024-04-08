@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashinu</h1>
-<h3 align="center">I am a 19-year-old university student studying translation and interpreting in English language department and learning Japanese, and also interested in coding.</h3>
+<h3 align="center">I am a 20-year-old university student studying translation and interpreting in English language department and learning Japanese, and also interested in coding.</h3>
 
 <!-- - 📄 My personal website [https://yashinu.net/](https://yashinu.net/) -->
 
