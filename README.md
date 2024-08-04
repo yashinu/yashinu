@@ -13,7 +13,7 @@
 <a href="https://instagram.com/yashinudesu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashinudesu" height="30" width="40" /></a>
 </br>
 </br>
-<a href="https://discord.gg/serendia"><img src="https://img.shields.io/badge/Serendia%20Squad%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.gg/serendia-squad-639501091586965505"><img src="https://img.shields.io/badge/Serendia%20Squad%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
