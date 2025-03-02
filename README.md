@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashinu</h1>
-<h3 align="center">I am a 20-year-old university student studying translation and interpreting in English language department and learning Japanese, and also interested in coding.</h3>
+<h3 align="center">I am a 21-year-old university student studying translation and interpreting in English language department and learning Japanese, and also interested in coding.</h3>
 
 <!-- - 📄 My personal website [https://yashinu.net/](https://yashinu.net/) -->
 
@@ -56,7 +56,7 @@
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
+      src="https://icon.icepanel.io/Technology/svg/Nest.js.svg"
       alt="nestjs"
       width="40"
       height="40"
