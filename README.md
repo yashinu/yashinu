@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yashinu</h1>
 <h3 align="center">I am a 21-year-old university student studying translation and interpreting in English language department and learning Japanese, and also interested in coding.</h3>
 
-<!-- - 📄 My personal website [https://yashinu.net/](https://yashinu.net/) -->
-
 - Hobbies: **Watching anime, learning new languages, and coding.**
 
 <h3 align="left">Connect with me:</h3>
