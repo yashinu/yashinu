@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashinu</h1>
-<h3 align="center">I am a 21-year-old university student studying translation and interpreting in English language department and learning Japanese, and also interested in coding.</h3>
+<h3 align="center">I am a 22-year-old university student studying translation and interpreting in English language department and learning Japanese, and also interested in coding.</h3>
 
 - Hobbies: **Watching anime, learning new languages, and coding.**
 
